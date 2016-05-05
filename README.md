@@ -45,6 +45,7 @@ Supported card types are:
 * Forbrugsforeningen
 * Dankort
 * Elo
+* UATP
 
 (Additional card types are supported by extending the [`$.payment.cards`](#paymentcards) array.)
 
